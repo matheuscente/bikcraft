@@ -1,6 +1,12 @@
 @import "./global/global.css";
 @import "./global/header.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
+@import "./utilidades/ponto-colorido.css";
 
 /*HomePage*/
 @import "./home/intro.css";
+
+/*Bicicletas*/
+@import "./bicicletas/bike-list.css";
