@@ -3,7 +3,9 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
-@import "./utilidades/ponto-colorido.css";
+@import "./home/tecno.css";
+@import "./home/parceiros.css";
+
 
 /*HomePage*/
 @import "./home/intro.css";
