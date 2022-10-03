@@ -7,6 +7,11 @@
     padding-right: 20px;
 }
 
+.titulo {
+    background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
+
 .btn {
     text-transform: uppercase;
     font-weight: bold;

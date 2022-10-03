@@ -59,8 +59,16 @@
 }
 
 @media (max-width: 600px) {
+    .header {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        flex-direction: column;
+        place-items: center;
+        gap: 30px;
+    }
     .header-menu {
-        gap: 12px;
+        flex-wrap: nowrap;
+        gap: 40px;
     }
 
     .header-menu a {
